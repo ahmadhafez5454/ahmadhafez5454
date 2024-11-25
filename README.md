@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **training App**
 
-- 🌱 I’m currently learning **Flutter | React js | UI\UX .**
+- 🌱 I’m currently learning **Software Engineering .**
 
 - 💬 Ask me about **Flutter**
 
